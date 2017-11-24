@@ -1,0 +1,17 @@
+1dcf486cd99f0058daa90354f4fcdceb *DESCRIPTION
+dd28d406285140cc128dcc0031d24d42 *NAMESPACE
+36b67fb5ef7301da6fa6da5438372af6 *R/downhillsimplex.R
+e39af7e3b0f246a3786b97d81401b8c1 *R/estimateHyperParameters.R
+38ab6bb3c0eebfbcddb2318985027589 *R/gpHist.R
+2ff9f73699cd3e87d1542b54024a883f *R/gpHistPredict.R
+873ab9e1885a853aecc91d652cfeb8bc *R/gpHistVariance.R
+5f7f9c2ff26ad58fe0b0c374a6fb80cc *man/downhillsimplex.Rd
+1f5bff5e8aefba95d02b6d4776d1b2b7 *man/estimateHyperParameters.Rd
+79cfe1bfb06d2dd14f3c46e24adb367d *man/gpHist-package.Rd
+9d989070fb4cf1b3c43a5566ab0bf08b *man/gpHist.Rd
+df336981561688a56e227d1ebeca1b2a *man/gpHistPredict.Rd
+29bce29901221321fe3f7c41baa86cd0 *man/gpHistVariance.Rd
+1eb087132ca099fca9090e764846f7c1 *src/RInterface.cc
+cdb1c44f05376ff4ef74808b18ab52ee *src/RMat.cc
+4c7165a8a697c219b2fc951364ec3800 *src/RMat.h
+eb31e563e1d562b6d90b54df3902046a *src/registerDynamicSymbol.c
